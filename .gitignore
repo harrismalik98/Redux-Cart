@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules
+
+# Compiled output
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE/Editor specific files
+.idea
+.vscode
+
+# Cache and log files
+*.log
+npm-debug.log*
+
+# Other
+.DS_Store
